@@ -7,7 +7,7 @@ bin-release/
 # Other files and folders
 .settings/
 
-# Executables
+# Delete all 
 *.swf
 *.air
 *.ipa
